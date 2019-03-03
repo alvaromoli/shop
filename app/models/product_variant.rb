@@ -1,0 +1,2 @@
+class ProducVariant < ApplicationRecord
+end
