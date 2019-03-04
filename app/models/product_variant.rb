@@ -1,2 +1,3 @@
-class ProducVariant < ApplicationRecord
+class ProductVariant < ApplicationRecord
+    belongs_to :product
 end
